@@ -1,0 +1,25 @@
+﻿Code	File	Line	Column
+@using BlazingPizza.ComponentsLibrary.Authentication	C:\dev\fork\BlazingPizza\BlazingPizza\Pages\Index.razor	5	1
+@using System.Threading	C:\dev\fork\BlazingPizza\BlazingPizza\Pages\OrderDetails.razor	3	1
+@using BlazingPizza.ComponentsLibrary.Authentication	C:\dev\fork\BlazingPizza\BlazingPizza\Shared\ForceSignInLayout.razor	3	1
+@using BlazingPizza.ComponentsLibrary.Authentication	C:\dev\fork\BlazingPizza\BlazingPizza\Shared\UserInfo.razor	1	1
+@using BlazingComponents	C:\dev\fork\BlazingPizza\BlazingPizza\_Imports.razor	11	1
+@using BlazingPizza.Client	C:\dev\fork\BlazingPizza\BlazingPizza\_Imports.razor	7	1
+@using BlazingPizza.ComponentsLibrary	C:\dev\fork\BlazingPizza\BlazingPizza\_Imports.razor	8	1
+@using BlazingPizza.ComponentsLibrary.Authentication	C:\dev\fork\BlazingPizza\BlazingPizza\_Imports.razor	9	1
+@using BlazingPizza.ComponentsLibrary.Map	C:\dev\fork\BlazingPizza\BlazingPizza\_Imports.razor	10	1
+@using BlazingPizza.Shared	C:\dev\fork\BlazingPizza\BlazingPizza\_Imports.razor	6	1
+@using Microsoft.AspNetCore.Components.Forms	C:\dev\fork\BlazingPizza\BlazingPizza\_Imports.razor	2	1
+@using Microsoft.AspNetCore.Components.Layouts	C:\dev\fork\BlazingPizza\BlazingPizza\_Imports.razor	3	1
+@using Microsoft.AspNetCore.Components.Routing	C:\dev\fork\BlazingPizza\BlazingPizza\_Imports.razor	4	1
+@using Microsoft.JSInterop	C:\dev\fork\BlazingPizza\BlazingPizza\_Imports.razor	5	1
+@using System.Net.Http	C:\dev\fork\BlazingPizza\BlazingPizza\_Imports.razor	1	1
+@using Microsoft.JSInterop	C:\dev\fork\BlazingPizza\BlazingPizza.ComponentsLibrary\Authentication\UserStateProvider.razor	1	1
+@using System.Net.Http	C:\dev\fork\BlazingPizza\BlazingPizza.ComponentsLibrary\Authentication\UserStateProvider.razor	2	1
+@using Microsoft.JSInterop	C:\dev\fork\BlazingPizza\BlazingPizza.ComponentsLibrary\Map\Map.razor	1	1
+
+Log og download update ML.exe
+C:\Users\jweke\AppData\Local\LogsVs22\dd_VSIXInstaller_20220523084605_652c.log
+
+YouTube Video`s for Blazor (Beginners)
+https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVjOKgzsWqdFVvzGL2_d72v
